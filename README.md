@@ -87,7 +87,7 @@ GitIgnore file 🕓 2 mins  ▉░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/64b6ce7b21a7d554b10b5a105b716ec7" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1407 hrs 46 mins
+🔫 Counter-Strike 2                 🕘 1408 hrs 38 mins
 🎮 Apex Legends                     🕘 179 hrs 51 mins
 🎮 Raft                             🕘 97 hrs 33 mins
 🎮 Bongo Cat                        🕘 87 hrs 6 mins
