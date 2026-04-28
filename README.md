@@ -59,6 +59,7 @@
 TOML     🕓 3 mins ████████████░░░░░░░░░░░░░░░░░ 41.7%
 Other    🕓 3 mins ███████████▊░░░░░░░░░░░░░░░░░ 40.6%
 Markdown 🕓 1 min  █████▏░░░░░░░░░░░░░░░░░░░░░░░ 17.7%
+Python   🕓 0 secs ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
