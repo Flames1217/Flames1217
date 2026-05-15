@@ -87,7 +87,7 @@ Markdown   🕓 1 hr 21 mins  █▎░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/64b6ce7b21a7d554b10b5a105b716ec7" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1433 hrs 43 mins
+🔫 Counter-Strike 2                 🕘 1436 hrs 31 mins
 🎮 Apex Legends                     🕘 197 hrs 9 mins
 🎮 Raft                             🕘 97 hrs 33 mins
 🎮 Bongo Cat                        🕘 87 hrs 6 mins
