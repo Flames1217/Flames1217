@@ -1,6 +1,6 @@
 # 异火不熄，少年不屈！🔥
 
-<span style="font-size: 1.5em; font-weight: bold;">欢迎诸位道友来[无尽火域](https://viper3.top)一叙。</span>
+<span style="font-size: 20px; font-weight: bold;">欢迎诸位道友来[无尽火域](https://viper3.top)一叙。</span>
 
 <table>
 <tr>
