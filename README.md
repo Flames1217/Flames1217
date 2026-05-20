@@ -93,7 +93,7 @@ CSS        🕓 42 mins       ██░░░░░░░░░░░░░░�
 🎮 Apex Legends                     🕘 197 hrs 9 mins
 🎮 Raft                             🕘 97 hrs 33 mins
 🎮 Bongo Cat                        🕘 87 hrs 6 mins
-💻 Wallpaper Engine                 🕘 62 hrs 37 mins
+💻 Wallpaper Engine                 🕘 63 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
