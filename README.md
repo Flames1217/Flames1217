@@ -58,11 +58,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/8d9a3ebff6996f580d88012e6c6e02e6" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Python     🕓 2 hrs 16 mins █████▎░░░░░░░░░░░░░░ 26.4%
-TypeScript 🕓 1 hr 47 mins  ████▏░░░░░░░░░░░░░░░ 20.8%
-JavaScript 🕓 1 hr 32 mins  ███▌░░░░░░░░░░░░░░░░ 17.9%
-Other      🕓 1 hr 29 mins  ███▍░░░░░░░░░░░░░░░░ 17.4%
-JSON       🕓 40 mins       █▌░░░░░░░░░░░░░░░░░░  7.8%
+Python     🕓 2 hrs 16 mins ████████▍░░░░░░░░░░░ 42.3%
+Other      🕓 1 hr 29 mins  █████▌░░░░░░░░░░░░░░ 27.9%
+Markdown   🕓 32 mins       ██░░░░░░░░░░░░░░░░░░ 10.2%
+JSON       🕓 24 mins       █▌░░░░░░░░░░░░░░░░░░  7.8%
+TypeScript 🕓 16 mins       █░░░░░░░░░░░░░░░░░░░  5.2%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
