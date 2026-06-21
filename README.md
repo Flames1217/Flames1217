@@ -89,7 +89,7 @@ Python     🕓 1 min         ░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/64b6ce7b21a7d554b10b5a105b716ec7" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike 2                 🕘 1474 hrs 37 mins
-🎮 Apex Legends                     🕘 223 hrs 46 mins
+🎮 Apex Legends                     🕘 224 hrs 54 mins
 🎮 Raft                             🕘 97 hrs 33 mins
 🎮 Bongo Cat                        🕘 87 hrs 6 mins
 💻 Wallpaper Engine                 🕘 63 hrs 13 mins
